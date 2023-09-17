@@ -1,4 +1,3 @@
-import { hover } from '@testing-library/user-event/dist/hover';
 import { styled } from 'styled-components';
 const ContactsStyled = styled.ul`
   list-style: none;
